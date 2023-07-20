@@ -1,5 +1,5 @@
 # initial
 
-##Edditing the file
+## Edditing the file
 
 Its a mardown file in this repository
